@@ -1,18 +1,22 @@
 # Run Log – FIT4012 Lab 2
 
-## Caesar Cipher
-- [x] Đã chạy Caesar encrypt với `I LOVE YOU`, key `3`
-- [x] Đã chạy Caesar encrypt với `hello world`, key `5`
-- [x] Đã chạy Caesar decrypt với `LORYH BRX`, key `3`
+- [x] Caesar Encrypt 1  
+  Input: I LOVE YOU → Output: L ORYH BRX  
 
-## Rail Fence Cipher
-- [x] Đã chạy Rail Fence encrypt với `2` rails
-- [x] Đã chạy Rail Fence encrypt với `4` rails
-- [x] Đã chạy Rail Fence decrypt
+- [x] Caesar Encrypt 2  
+  Input: hello world → Output: mjqqt btwqi  
 
-## Validation / File input
-- [x] Đã kiểm tra đầu vào không hợp lệ
-- [x] Đã đọc dữ liệu từ `data/input.txt`
+- [x] Caesar Decrypt  
+  Input: L ORYH BRX → Output: I LOVE YOU  
+
+- [x] Rail Fence Encrypt 2 rails  
+  Output: IOEOLVYU  
+
+- [x] Rail Fence Encrypt 4 rails  
+  Output: IOYELUOV  
+
+- [x] Rail Fence Decrypt  
+  Output: I LOVE YOU  
 
 ## Điều em học được từ bài lab
 Qua bài lab, em hiểu rõ hơn về nguyên lý của các phương pháp mã hóa cổ điển như Caesar Cipher và Rail Fence Cipher.  
