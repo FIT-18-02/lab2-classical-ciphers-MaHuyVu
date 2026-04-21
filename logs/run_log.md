@@ -19,4 +19,3 @@ Qua bài lab, em hiểu rõ hơn về nguyên lý của các phương pháp mã 
 Em học được cách xử lý chuỗi ký tự, giữ nguyên định dạng như chữ hoa, chữ thường và dấu cách.  
 Khó khăn lớn nhất là cài đặt phần giải mã Rail Fence do phải tái tạo đúng cấu trúc zigzag.  
 Bài lab cũng giúp em làm quen với việc tổ chức code, viết test case và quản lý project bằng GitHub.
-
